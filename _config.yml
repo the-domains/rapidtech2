@@ -1,0 +1,14 @@
+layout_spectrum: 0.5930616592522711
+typography_spectrum: 0.7474348505493253
+color:
+  brandStrength: 0.16855510417371988
+  lightness: 0.13660613261163235
+  saturation: 0.8845182687509805
+  rhythmicContrast: 0.6848226066213101
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: rapidtech2
